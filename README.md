@@ -13,7 +13,7 @@ Here's a list of systems that I have implemented and am working to add.
     - Harvesting System (Harvest tiles, less money for machine handled crops) [50%]
     - Machine system (Place machines to do your work for you) [80%]
     - Mulch System (Place mulch to add buffs to your crops) [0%]
-  - Upgrade Tree System (Purchase upgrades to buff your gameplay) [50%]
+- Upgrade Tree System (Purchase upgrades to buff your gameplay) [50%]
       - Tree 1 (Crops) [100%]
           - All upgrades working and purchasable
        - Tree 2 (Garden) [100%]
@@ -21,8 +21,8 @@ Here's a list of systems that I have implemented and am working to add.
       - Tree 3 (Machines) [0%]
       - Reset Upgrades [0%]
           - havent even started. Will reset farm and all upgrades for a prestige point of sorts that can upgrade permanant things on your farm.
-  - Day/Night system [0%]
-  - Content
+- Day/Night system [0%]
+- Content
       - Crops
           - Wheat [done]
           - Carrots [done]
