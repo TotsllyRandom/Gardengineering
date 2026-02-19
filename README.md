@@ -2,6 +2,8 @@
 
 Hi, and thanks for looking (at least) at my project! Gardengineering is a small project I've been working using Turbowarp on in my free time in between assignments and classes, so your time means the world to me. 
 
+This was made in block coding just because 1. im too lazy to actually work in a normal language, 2. i havent finished learning JS, and 3. I like scratch coding its fun
+
 This game is 100 and a half percent A WORK IN PROGRESS. It's playable, but I have many more features I plan to add before a proper release.
 
 Here's a list of systems that I have implemented and am working to add.
