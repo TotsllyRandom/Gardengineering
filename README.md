@@ -23,23 +23,23 @@ Here's a list of systems that I have implemented and am working to add.
                 - havent even started. Will reset farm and all upgrades for a prestige point of sorts that can upgrade permanant things on your farm.
 - Day/Night system [0%]
 - Content
-      - Crops
-          - Wheat [done]
-          - Carrots [done]
-          - Shrroms [done]
-          - Melons
-          - Pumpkins
-          - Potatos
-          - Beets
-      - Mulches
-          - Quick-Gro
-          - Water-Last
-          - Mutator
-          - Value
-      - Machines
-          - Sprinkler
-          - AutoMulcher
-          - Lamp (Provides light during night mode for day plants)
-          - Replanter
-          - Harvester
-          - AutoFarmer (harvests and replants) 
+    - Crops
+        - Wheat [done]
+        - Carrots [done]
+        - Shrooms [done]
+        - Melons
+        - Pumpkins
+        - Potatos [done, to be resprited]
+        - Beets
+    - Mulches
+        - Quick-Gro
+        - Water-Last
+        - Mutator
+        - Value
+    - Machines
+        - Sprinkler
+        - AutoMulcher
+        - Lamp (Provides light during night mode for day plants)
+        - Harvester
+        - Replanter
+        - AutoFarmer (harvests and replants)
