@@ -1,5 +1,9 @@
 Update Log:
 
+0.5.1 [Feb 19, 2026] -
+   - Minor systems
+       - Fixed machine radiuses, and made Machine upgrades 2 and 6 work.
+
 0.5 [Feb 19, 2026] -
   - Major Systems:
     - Added the "Machines" Upgrade Tree
