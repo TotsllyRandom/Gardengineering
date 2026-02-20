@@ -1,4 +1,5 @@
 Update Log:
+NOTE: Any unnamed updates are purely minor bugfixes (I.e. positioning errors, color changes, etc.)
 
 0.5.6 [Feb 20, 2026] -
    - Major Systems
