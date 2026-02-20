@@ -1,5 +1,10 @@
 Update Log:
 
+0.5.6 [Feb 20, 2026] -
+   - Major Systems
+      - Added a pause menu
+      - Fixed the machine upgrades 1, 3, and 4
+
 0.5.4 [Feb 20, 2026] -
    - Major Systems
       - Changed the harvest script into a function so it can be accessed by machines and cause less lag
