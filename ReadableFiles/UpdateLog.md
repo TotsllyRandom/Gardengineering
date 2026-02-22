@@ -1,6 +1,15 @@
 Update Log:
 NOTE: Any unnamed updates are purely minor bugfixes (I.e. positioning errors, color changes, etc.)
 
+0.5.9 [Feb 22, 2026] -
+   - Major Systems
+      - Added mulch (Finally)
+      - Made Machines work as intended.
+      - Added the Harvester
+- Minor Systems:
+    - Fixed Machine Upgrades 6 & 8, making machines cost money (boo) but work as I planned (yay)
+    - Fixed some text to be properly centered (though some text is now overcompensated, I'll recenter before 0.6)
+
 0.5.6 [Feb 20, 2026] -
    - Major Systems
       - Added a pause menu
