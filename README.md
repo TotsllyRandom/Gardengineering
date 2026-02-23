@@ -1,5 +1,7 @@
 # Gardengineering
 
+Play online - https://totsllyrandom.github.io/Gardengineering/
+
 Hi, and thanks for looking (at least) at my project! Gardengineering is a small project I've been working using Turbowarp on in my free time in between assignments and classes, so your time means the world to me. 
 
 This was made in block coding just because 1. im too lazy to actually work in a normal language, 2. i havent finished learning JS, and 3. I like scratch coding its fun
