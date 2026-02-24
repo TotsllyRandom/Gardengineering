@@ -113,17 +113,17 @@ Planned feature that will introduce light mechanics and crop behavior changes.
 
 ---
 
-# Future Plans
+# Future Plans in order
 
-- Prestige / Reset system  
-- Day & Night cycle  
-- Additional crops  
-- More mulch variations  
-- More machine types  
-- Balance updates after playtesting  
+1. Prestige / Reset system
+2. Day & Night system
+3. Optimizing scripts (condensing lengthy code)
+4. Better save/load system (autosave?)
+5. More machine types
+6. Overhauled plant systen
+7. More mulch variations
+8. Additional crops
 
 ---
 
-If you play it and have feedback, ideas, or find bugs — I’d genuinely love to hear them.
-
-Thanks again for taking the time to check it out.
+If you play it and have feedback, ideas, or find bugs: I’d genuinely love to hear them to add or fix them!
