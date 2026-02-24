@@ -1,6 +1,16 @@
 Update Log:
 NOTE: Any unnamed updates are purely minor bugfixes (I.e. positioning errors, color changes, etc.)
 
+0.6 [Feb 23, 2026] -
+   It's finally here! 0.6 is out and working! Please leave any suggestions or bugs you encounter in "Issues!"
+   - Major Systems
+      - Added a save/load system! Open the pause menu (Bottom left) to save your progress and pick back up later!
+      - Republished the release! Hooray!
+- Bugfixes
+      - Fixed the text which was not properly centered
+      - Fixed many save/load bugs
+      - Fixed the mulch bag sprite (when not unlocked) from being blurry
+
 0.5.9 [Feb 22, 2026] -
    - Major Systems
       - Added mulch (Finally)
