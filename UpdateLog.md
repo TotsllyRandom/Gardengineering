@@ -1,6 +1,12 @@
 Update Log:
 NOTE: Any unnamed updates are purely minor bugfixes (I.e. positioning errors, color changes, etc.)
 
+0.6.2 [Feb 24, 2026] -
+   - Major Systems
+      - Added an Autosave system. Now, starting the game will try to load your most recent local save. hitting the save button in the pause menu makes a new autosave, and also can download a manual save to load in the settings menu.
+- Bugfixes
+      - Fixed more save/load bugs
+
 0.6 [Feb 23, 2026] -
    It's finally here! 0.6 is out and working! Please leave any suggestions or bugs you encounter in "Issues!"
    - Major Systems
